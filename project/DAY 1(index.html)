@@ -1,0 +1,16 @@
+<h1>Keyboard Shortcuts</h1>
+
+  <p>Use a search engine to find and fill out the following "Keyboard Shorcuts":</p>
+
+  <ul>
+    <!--   EXAMPLE -->
+    <li>Save File: cmd/ctrl + s</li>
+    <!--   END EXAMPLE -->
+    <li>Cut: __cmd/ctrl+x___</li>
+    <li>Copy: __cmd/ctrl+c____</li>
+    <li>Paste: _cmd/ctrl+v_____</li>
+    <li>Undo: _cmd/ctrl+z_____</li>
+    <li>Find Text: __cmd/ctrl+f____</li>
+    <li>Select all text: __cmd/ctrl+A____</li>
+  </ul>
+              
