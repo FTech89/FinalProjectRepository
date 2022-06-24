@@ -1,0 +1,31 @@
+.div {
+    font-size: 100px;
+    color: white;
+}
+p> {
+    text-align: left;
+    color: white;
+}
+
+.social-media {
+    font-size: 75px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: white;
+
+}
+body {
+    margin: 0;
+    background-image: url("../bushcraft.jpg");padding-top: 200px;
+    padding-bottom: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+      }
+    .font {
+        color: white;
+    }
+    .edc-logo {
+        color: white;
+    }

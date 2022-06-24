@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-image: url("../bushcraft.jpg");padding-top: 200px;
+    padding-bottom: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+      }
+
+nav{
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    text-align: center;
+    padding-bottom: 65px;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 60px;
+    text-transform: capitalize;
+
+
+}
+
+footer {
+    color: aliceblue;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    text-indent: 30px;
+}
+.Paragraph {
+    float: left;
+    width: 50%;
+    padding-bottom: 30px;
+}
+.video {
+    float: right;
+    padding-right: 50px;
+    
+}
+.audio {
+    padding-top: 200px;
+}
+.social-media {
+    text-align: center;
+    font-size: 75px;
+    padding-top: 100px;
+}
+.edc-logo {
+    padding-bottom: 60px;
+}
+p> {
+    text-align: left;
+}
